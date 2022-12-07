@@ -39,7 +39,6 @@ export default function IndexPage() {
                   If you need HELP IN ENGLISH, look for a blue hat with an Angel
                   on it!{" "}
                 </p>
-                <Image width={70} height={50} src={"/logo-transparent.png"} />
               </div>
 
               <div>
