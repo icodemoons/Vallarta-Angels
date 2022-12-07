@@ -12,7 +12,7 @@ export default function IndexPage() {
           <div className="h-full flex items-center">
             <div className="mr-10 flex items-center">
               <Image width={70} height={50} src={"/logo-transparent.png"} />
-              <h3 className="text-base  font-bold font-serif text-black tracking-normal leading-tight ml-3 hidden lg:block">
+              <h3 className="text-base  font-bold font-serif text-white tracking-normal leading-tight ml-3  ">
                 Vallarta Angels
               </h3>
             </div>
@@ -39,8 +39,7 @@ export default function IndexPage() {
                   If you need HELP IN ENGLISH, look for a blue hat with an Angel
                   on it!{" "}
                 </p>
-                <Image width={70} height={50} src={"/logo-transparent.png"} /> (
-                blue hat image)
+                <Image width={70} height={50} src={"/logo-transparent.png"} />
               </div>
 
               <div>
