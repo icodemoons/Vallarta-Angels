@@ -11,11 +11,7 @@ export default function IndexPage() {
         <div className="container px-6 justify-between h-16 flex items-center lg:items-stretch mx-auto">
           <div className="h-full flex items-center">
             <div className="mr-10 flex items-center">
-              <Image
-                width={70}
-                height={50}
-                src={"/public/logo-transparent.png"}
-              />
+              <Image width={70} height={50} src={"/logo-transparent.png"} />
               <h3 className="text-base  font-bold font-serif text-black tracking-normal leading-tight ml-3 hidden lg:block">
                 Vallarta Angels
               </h3>
